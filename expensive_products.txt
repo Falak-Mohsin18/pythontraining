@@ -1,0 +1,5 @@
+P201, Headphones, 2000, Electronics
+P202, Sofa, 28000, Furniture
+P203, Printer, 12000, Electronics
+P204, Desk Lamp, 3500, Electronics
+P205, Bed, 45000, Furniture
